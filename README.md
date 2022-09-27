@@ -36,10 +36,6 @@ We have created a new bot rewritten from scratch with new features and free basi
 [dex.json.md](overview/dex.json.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Referrals
 
 Bring someone and earn with us!
