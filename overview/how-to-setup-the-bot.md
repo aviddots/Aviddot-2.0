@@ -22,6 +22,10 @@ After this, files will be like this:
 
 <figure><img src="../.gitbook/assets/correct.jpg" alt=""><figcaption><p>FILES MUST APPEAR LIKE THIS</p></figcaption></figure>
 
+Make sure filenames don't have spaces or other characters like that.
+
+<figure><img src="../.gitbook/assets/errornamefile.jpg" alt=""><figcaption></figcaption></figure>
+
 Open the configfile with a text editor (I suggest visual studio code) and go to the bottom of the file
 
 Fill in the PUBLIC fields with the address of your wallet (the one that has the activation token) and PRIVATE with the private key of the same wallet
