@@ -26,6 +26,18 @@ Buy when addingliquidity method (customizable) is intercepted
 
 (You can add any MethodId based on the router address)
 
+## Anti-Rug mode
+
+Anti rug mode scans both the router address and the token address.&#x20;
+
+So you can sell-frontrun any type of transaction&#x20;
+
+## Auto gwei on mempool snipe
+
+The gwei for the buy is copied from the intercepted transaction.&#x20;
+
+The gwei for the sell is copied from the transaction and is increased by 7 gwei for the frontrun
+
 ## Limit buy/sell
 
 Set the price for limit buy or limit sell
