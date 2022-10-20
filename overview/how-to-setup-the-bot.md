@@ -36,6 +36,12 @@ The first one must be the one that hold our token AVID2.0 ("Public", "private")
 
 Replace PUBLIC with your public key and PRIVATE with your private key.
 
+| Extract the private key from metamask                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                  Example |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------: |
+| <p></p><ol><li>Click on the identicon in the top right.</li><li>Select the account you'd like to export.</li><li>On the account page, click on the menu (three dots) in the upper right corner, and then on the "Account Details" button.</li><li>Click “Export Private Key”.</li><li>To access your private key, you'll now need to enter your wallet password. Once you've done so, click “Confirm” to proceed.</li><li>Your private key will now be revealed. Click to copy it, and save it somewhere safe. (Note: we aren't showing it in the below screenshot for obvious reasons -- but yours will be there.)</li><li>Click “Done” to close the screen.</li></ol> | ![](../.gitbook/assets/How\_to\_export\_an\_account's\_private\_key.gif) |
+
+
+
 <figure><img src="../.gitbook/assets/walletsfilled.png" alt=""><figcaption><p>3 wallets</p></figcaption></figure>
 
 If you want to add one wallet only, just delete others lines

@@ -19,14 +19,14 @@ There cannot be two zero numbers, so you will have to swap the numbers in case y
 * "router\_address" - is the router address of the dex
 * "chain" - keep the following names for existing chains&#x20;
 
-|   "chain"   |  Name of the chain  |
-| :---------: | :-----------------: |
-|    "bsc"    | Binance smart chain |
-|  "ethereum" |       Ethereum      |
-| "avalanche" |         Avax        |
-|  "polygon"  |       Polygon       |
-|    "ftm"    |        Fantom       |
-|   "cronos"  |        Cronos       |
+|  Name of the chain  |   "chain"   |
+| :-----------------: | :---------: |
+| Binance smart chain |    "bsc"    |
+|       Ethereum      |  "ethereum" |
+|         Avax        | "avalanche" |
+|       Polygon       |  "polygon"  |
+|        Fantom       |    "ftm"    |
+|        Cronos       |   "cronos"  |
 
 ## :coin: COIN
 
