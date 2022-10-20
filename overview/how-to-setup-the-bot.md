@@ -26,9 +26,23 @@ Make sure filenames don't have spaces or other characters like that.
 
 <figure><img src="../.gitbook/assets/errornamefile.jpg" alt=""><figcaption></figcaption></figure>
 
-Open the configfile with a text editor (I suggest visual studio code) and go to the bottom of the file
+Open the configfile with a text editor (I suggest visual studio code or a normal text editor is okay too) and go to the bottom of the file
 
-Fill in the PUBLIC fields with the address of your wallet (the one that has the activation token) and PRIVATE with the private key of the same wallet
+<figure><img src="../.gitbook/assets/wallets.png" alt=""><figcaption><p>Bottom of the copnfigfile</p></figcaption></figure>
+
+This is an array of wallets.
+
+The first one must be the one that hold our token AVID2.0 ("Public", "private")
+
+Replace PUBLIC with your public key and PRIVATE with your private key.
+
+<figure><img src="../.gitbook/assets/walletsfilled.png" alt=""><figcaption><p>3 wallets</p></figcaption></figure>
+
+If you want to add one wallet only, just delete others lines
+
+Remember that the first wallet must be the holder of the AVID2.0 Token
+
+<figure><img src="../.gitbook/assets/onewalletsfilled.png" alt=""><figcaption><p>one wallet only</p></figcaption></figure>
 
 Save the file and close it.
 

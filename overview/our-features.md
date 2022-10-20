@@ -10,6 +10,10 @@ No more download from telegram or from google drive.
 
 When a new version is released, code will be updated from the bot directly
 
+## Multi-Wallet
+
+Add as many wallet you want!
+
 ## Add as many dex you want
 
 You can add as many ethereum-based dexes as you like
@@ -70,13 +74,19 @@ Force sell - 100%, 50%, 25%, 10%
 
 ## Customizable buy and sell slippage
 
-## Customizable max buy and sell tax
+## Customizable max buy tax and sell tax
 
 ## Mempool custom methoId snipe
 
 Buy when a methoid is intercepted in the mempool search (tradingEnabled, antibot off etc...)
 
 (You can add any MethodId based on the token address)
+
+## Mempool function name snipe
+
+Filter the function name instead of the methodId.
+
+This is the most user friendly way to snipe in mempool
 
 ## Anti-bot protection (bsc, avalanche, polygon and fantom)
 
