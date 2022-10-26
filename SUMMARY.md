@@ -8,3 +8,4 @@
 * [✨ Our Features](overview/our-features.md)
 * [🚧 Dex.json](overview/dex.json.md)
 * [🧑 Referrals](overview/referrals.md)
+* [🔍 Mempool Scan](overview/mempool-scan.md)

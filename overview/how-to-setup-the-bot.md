@@ -54,6 +54,6 @@ Save the file and close it.
 
 Dex file is provided with 20 different dexes so is ready to use.
 
-To check how to add a DEX click HERE
+To check how to add a DEX click [HERE](dex.json.md#dex)
 
-To check how to add a TOKEN click HERE
+To check how to add a TOKEN click [HERE](dex.json.md#coin)
