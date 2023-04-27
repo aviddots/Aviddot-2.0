@@ -20,7 +20,8 @@ You will be awarded a percentage for each sale
 
 Advertise our bot in your community.&#x20;
 
-You will receive the bot for free and you will be awarded a percentage of the sales
+You will receive the bot for free and you will be awarded a percentage of the sales\
+(after 5 referral)
 
 </details>
 

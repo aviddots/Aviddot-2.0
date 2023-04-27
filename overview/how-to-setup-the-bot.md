@@ -6,7 +6,7 @@ description: Instructions to setup the bot
 
 Download the bot and configuration files (configfile.py and dex.json)
 
-FOR WINDOWS ONLY
+## WINDOWS
 
 Make sure that the name of the configfile file is configfile.py
 
@@ -25,6 +25,20 @@ After this, files will be like this:
 Make sure filenames don't have spaces or other characters like that.
 
 <figure><img src="../.gitbook/assets/errornamefile.jpg" alt=""><figcaption></figcaption></figure>
+
+Than [setup the configfile](how-to-setup-the-bot.md#setup-the-config-file)
+
+
+
+## MAC
+
+Download bot files and unzip them in a folder
+
+[Setup the configfile](how-to-setup-the-bot.md#setup-the-config-file) and optionally, the dex.json file (more details in the [specified section](dex.json.md))
+
+Now copy the dex.json, configfile and tokenbuy.py files and paste them into the home folder of your user
+
+## Setup the config file
 
 Open the configfile with a text editor (I suggest visual studio code or a normal text editor is okay too) and go to the bottom of the file
 
