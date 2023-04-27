@@ -10,6 +10,14 @@ No more download from telegram or from google drive.
 
 When a new version is released, code will be updated from the bot directly
 
+## Check snipe coin contract functions
+
+Pasting a token address, you can check all the functions of that token (very useful if you need to check the methodId to snipe in mempool)
+
+## Check token Score
+
+Pasting a token address, will start the token check and a score will be assigned to the token. All the functions will be scanned and you can see if ther's some scam function in one second. Higher is the score, higher is the security of the token (less scam functions detected)
+
 ## Multi-Wallet
 
 Add as many wallet you want!

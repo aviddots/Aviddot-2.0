@@ -14,11 +14,11 @@ We have created a new bot rewritten from scratch with new features and free basi
 
 > — :computer: [How to setup the bot](overview/how-to-setup-the-bot.md)
 >
-> — :pancakes: [How to add a dex](overview/add-dex-coins-or-rpc.md#dex)
+> — :pancakes: [How to add a dex](overview/dex.json.md#dex)
 >
-> — :paperclips: [How to add custom rpc](overview/add-dex-coins-or-rpc.md#rpc)
+> — :paperclips: [How to add custom rpc](overview/dex.json.md#rpc)
 >
-> — :coin: [How to add custom coin](overview/add-dex-coins-or-rpc.md#coin)
+> — :coin: [How to add custom coin](overview/dex.json.md#coin)
 >
 > — :sparkles: [Features explained](overview/our-features.md)
 
@@ -32,8 +32,8 @@ We have created a new bot rewritten from scratch with new features and free basi
 [our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/add-dex-coins-or-rpc.md" %}
-[add-dex-coins-or-rpc.md](overview/add-dex-coins-or-rpc.md)
+{% content-ref url="overview/dex.json.md" %}
+[dex.json.md](overview/dex.json.md)
 {% endcontent-ref %}
 
 ## Referrals
