@@ -6,6 +6,6 @@
 
 * [🖥 How to setup the bot](overview/how-to-setup-the-bot.md)
 * [✨ Our Features](overview/our-features.md)
-* [🚧 Dex.json](overview/dex.json.md)
+* [🚧 Add Dex, Coins or RPC](overview/add-dex-coins-or-rpc.md)
 * [🧑 Referrals](overview/referrals.md)
 * [🔍 Mempool Scan](overview/mempool-scan.md)

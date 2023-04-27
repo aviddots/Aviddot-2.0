@@ -1,4 +1,8 @@
-# 🚧 Dex.json
+---
+description: How to set up new Dex, Coins or RPC
+---
+
+# 🚧 Add Dex, Coins or RPC
 
 The dex.json file comes with a series of ready-to-use dexes
 
@@ -17,34 +21,27 @@ There cannot be two zero numbers, so you will have to swap the numbers in case y
 * "name" - is the displayed name of the dex on the bot interface
 * "factory\_address" - is the factory address of the dex
 * "router\_address" - is the router address of the dex
+* (If V3 fork) "quoter\_address" - is the quoter address of the dex
 * "chain" - keep the following names for existing chains&#x20;
 
-|  Name of the chain  |   "chain"   |
-| :-----------------: | :---------: |
-| Binance smart chain |    "bsc"    |
-|       Ethereum      |  "ethereum" |
-|         Avax        | "avalanche" |
-|       Polygon       |  "polygon"  |
-|        Fantom       |    "ftm"    |
-|        Cronos       |   "cronos"  |
+|  Name of the chain  | "chain" |
+| :-----------------: | :-----: |
+| Binance smart chain |   "56"  |
+|       Ethereum      |   "1"   |
+|       Arbitrum      | "42161" |
+|       Polygon       |  "137"  |
+|        Fantom       |  "250"  |
+|        Cronos       |   "25"  |
 
 ## :coin: COIN
 
-* "main\__coin\__contract" - The address of the main coin for that chain
-* "main\__coin\__symbol" - The symbol of the main coin for that chain
+* "main\__coins_" - this is a list of coins that will be added on the coin selector. follow this schema:
+
+<figure><img src="../.gitbook/assets/main_coins.png" alt=""><figcaption><p>Use the name of the coin and its address</p></figcaption></figure>
 
 {% hint style="warning" %}
 The symbol is important for the proper functioning of the bots. to be sure that the symbol is correct, look for the main con in the respective explorer (for example, look for bnb on bscexplorer) You will notice that the symbol for BNB is actually WBNB So you will have to enter WBNB in "main\_coin\_symbol"
 {% endhint %}
-
-
-
-* "peg\__coin\__contract" - The address of one peg coin for that chain 'eg. BUSD for bsc'
-* "peg\__coin\__symbol" - The symbol of the coin
-* "peg\__coin\_2_contract" - The address of one peg coin for that chain 'eg. USDT for bsc'
-* "peg\__coin\_2_symbol" - The symbol of the coin
-* "selfadded\__coin\__contract" - The address of any peg coin you want to add
-* "selfadded\__coin\__symbol" - The symbol of the selfadded coin
 
 {% hint style="warning" %}
 For the bot to work correctly it is necessary to fill in all the fields of the relative dex. Even if you don't want to add a coin, copy the peg coin address and symbol from one of the fields above so you don't leave it blank.
@@ -52,9 +49,9 @@ For the bot to work correctly it is necessary to fill in all the fields of the r
 
 ## :link: RPC
 
-* "rpc1" - the first RPC that will be displayed when you select the dex
-* "rpc2" - the second RPC that will be displayed when you select the dex
-* "rpc3" - the third RPC that will be displayed when you select the dex
+* "rpc" - is a list of rpcs links. You can add any number of rpcs, just following this schema:
+
+<figure><img src="../.gitbook/assets/rpcs.png" alt=""><figcaption><p>RPC examples</p></figcaption></figure>
 
 {% hint style="warning" %}
 For the bot to function correctly, the RPC fields must be filled in. If you don't have other RPCs available, just enter the same in all fields
