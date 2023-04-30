@@ -5,7 +5,8 @@
 ## Overview
 
 * [🖥 How to setup the bot](overview/how-to-setup-the-bot.md)
-* [✨ Our Features](overview/our-features.md)
 * [🚧 Add Dex, Coins or RPC](overview/dex.json.md)
+* [✨ Our Features](overview/our-features.md)
 * [🧑 Referrals](overview/referrals.md)
-* [🔍 Mempool Scan](overview/mempool-scan.md)
+* [🔍 Find Mempool methodId from network scanners](overview/find-mempool-methodid-from-network-scanners.md)
+* [🔍 Find mempool MethoId from the bot](overview/find-mempool-methoid-from-the-bot.md)

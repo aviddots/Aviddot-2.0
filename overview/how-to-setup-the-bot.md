@@ -28,7 +28,7 @@ Make sure filenames don't have spaces or other characters like that.
 
 Than [setup the configfile](how-to-setup-the-bot.md#setup-the-config-file)
 
-
+Files must be all in the same folder
 
 ## MAC
 
@@ -37,6 +37,28 @@ Download bot files and unzip them in a folder
 [Setup the configfile](how-to-setup-the-bot.md#setup-the-config-file) and optionally, the dex.json file (more details in the [specified section](dex.json.md))
 
 Now copy the dex.json, configfile and tokenbuy.py files and paste them into the home folder of your user
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-04-27 at 20.33.39.png" alt=""><figcaption><p>Home folders on MAC</p></figcaption></figure>
+
+
+
+
+
+## LINUX
+
+Download the bot on any folder
+
+[Setup the configfile](how-to-setup-the-bot.md#setup-the-config-file)
+
+Files must be all in the same folder
+
+Make the file executable following below screen
+
+<figure><img src="../.gitbook/assets/right_click.png" alt=""><figcaption><p>Right click on the Sniperbot file</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/executable.png" alt=""><figcaption><p>Make it executable</p></figcaption></figure>
+
+
 
 ## Setup the config file
 
@@ -71,3 +93,5 @@ Dex file is provided with 20 different dexes so is ready to use.
 To check how to add a DEX click [HERE](dex.json.md#dex)
 
 To check how to add a TOKEN click [HERE](dex.json.md#coin)
+
+Run the bot with a double click on the executable file
