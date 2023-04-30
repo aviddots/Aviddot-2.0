@@ -52,6 +52,10 @@ Now enable the Mempool Snipe selecting the METHOID LABEL
 
 </div>
 
+You can add as many methoid you want. Just separate them with a comma.
+
+
+
 Now start the bot and wait that it find the methoid in the mempool!
 
 
