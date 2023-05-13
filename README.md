@@ -14,7 +14,7 @@ We have created a new bot rewritten from scratch with new features and free basi
 
 > — :computer: [How to setup the bo](overview/how-to-setup-the-bot.md)t
 >
-> — :airplane: How to setup Telegram scraper
+> — :airplane: How to setup the telegram scraper
 >
 > — :pancakes: [How to add a dex](overview/dex.json.md#dex)
 >
@@ -28,6 +28,10 @@ We have created a new bot rewritten from scratch with new features and free basi
 
 {% content-ref url="overview/how-to-setup-the-bot.md" %}
 [how-to-setup-the-bot.md](overview/how-to-setup-the-bot.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/how-to-setup-telegram-scraper.md" %}
+[how-to-setup-telegram-scraper.md](overview/how-to-setup-telegram-scraper.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}
