@@ -5,6 +5,7 @@
 ## Overview
 
 * [🖥 How to setup the bot](overview/how-to-setup-the-bot.md)
+* [🛠 How to setup Telegram Scraper](overview/how-to-setup-telegram-scraper.md)
 * [🚧 Add Dex, Coins or RPC](overview/dex.json.md)
 * [✨ Our Features](overview/our-features.md)
 * [🧑 Referrals](overview/referrals.md)

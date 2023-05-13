@@ -12,7 +12,9 @@ We have created a new bot rewritten from scratch with new features and free basi
 >
 > Before using the bot, please read the entire content of this guide. It will help you make the most of it and you will need less support from our team.
 
-> — :computer: [How to setup the bot](overview/how-to-setup-the-bot.md)
+> — :computer: [How to setup the bo](overview/how-to-setup-the-bot.md)t
+>
+> — :airplane: How to setup Telegram scraper
 >
 > — :pancakes: [How to add a dex](overview/dex.json.md#dex)
 >
