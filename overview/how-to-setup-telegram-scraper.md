@@ -21,10 +21,16 @@ Now you can fill in the tg\_config.json configuration file as shown in the follo
 \
 
 
-<figure><img src="../.gitbook/assets/api development.png" alt=""><figcaption><p>tg_config.json example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/api development1.png" alt=""><figcaption><p>tg_config.json example</p></figcaption></figure>
+
+
 
 {% hint style="info" %}
 The phone number should have the international prefix.
+{% endhint %}
+
+{% hint style="danger" %}
+Note that the channels must be setted to 0 when you run the session creator
 {% endhint %}
 
 
