@@ -52,6 +52,16 @@ This is an array of wallets.
 
 The first one must be the one that hold our token AVID2.0 ("Public", "private")
 
+{% hint style="info" %}
+No comma have to be after the latest brackets
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/wrong_configfile.png" alt=""><figcaption><p>WRONG CONFIGFILE</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ok_configfile.png" alt=""><figcaption><p>OK CONFIGFILE</p></figcaption></figure>
+
+
+
 Replace PUBLIC with your public key and PRIVATE with your private key.
 
 | Extract the private key from metamask                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                  Example |
