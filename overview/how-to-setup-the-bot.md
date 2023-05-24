@@ -52,7 +52,7 @@ This is an array of wallets.
 
 The first one must be the one that hold our token AVID2.0 ("Public", "private")
 
-{% hint style="info" %}
+{% hint style="warning" %}
 No comma have to be after the latest brackets
 {% endhint %}
 
@@ -63,6 +63,30 @@ No comma have to be after the latest brackets
 
 
 Replace PUBLIC with your public key and PRIVATE with your private key.
+
+{% hint style="warning" %}
+PAY ATTENTION\
+Do not leave uncopiled wallets or the bot will not start.&#x20;
+
+Example:
+
+\[\
+&#x20;       "YOUR\_WALLET\_ADDRESS",&#x20;
+
+&#x20;       "YOUR\_PRIVATE\_KEY"
+
+],\
+**\[**\
+&#x20;       **"public",**&#x20;
+
+&#x20;       **"private"**
+
+**]**
+{% endhint %}
+
+
+
+
 
 | Extract the private key from metamask                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                  Example |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------: |
